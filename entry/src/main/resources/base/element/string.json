@@ -10,7 +10,11 @@
     },
     {
       "name": "EntryAbility_label",
-      "value": "label"
+      "value": "语音计算器"
+    },
+    {
+      "name": "mic_reason",
+      "value": "用于语音输入计算算式与语音播报计算结果"
     }
   ]
 }
